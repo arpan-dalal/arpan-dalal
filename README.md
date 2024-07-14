@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 - 🔭 I’m currently working at TCS as an AWS Data Engineer.
 - 🌱 I’m currently learning advanced PySpark techniques.
+- 📊 Passionate for Advanced SQL
 - 💬 Ask me about Python, PySpark, SQL, AWS, and Big Data.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dalal/)
@@ -13,7 +14,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)![.](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
@@ -23,7 +24,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure&logoColor=white)![ ](https://img.shields.io/badge/rating-★★☆☆☆-brightgreen)
 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)![ ](https://img.shields.io/badge/rating-★★★☆☆-brightgreen)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=blue)![ ](https://img.shields.io/badge/rating-★★★☆☆-brightgreen)
 
 ## Areas I can help
 
@@ -45,4 +46,9 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ### 📈 GitHub Stats
 
-![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpan-dalal&show_icons=true&theme=dark)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=arpan-dalal&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&lineheight=35">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arpan-dalal&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
+</p>
+
+
