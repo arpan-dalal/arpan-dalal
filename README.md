@@ -13,10 +13,14 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)![](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-Web-Services)
-![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)[ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-Web-Services)[ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark)[ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
