@@ -21,8 +21,9 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark)![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure&logoColor=white)![ ](https://img.shields.io/badge/rating-★★☆☆☆-brightgreen)
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)![ ](https://img.shields.io/badge/rating-★★★☆☆-brightgreen)
 
 ## Areas I can help
 
