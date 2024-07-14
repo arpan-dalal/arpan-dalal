@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)(https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-Web-Services)
 ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark)
