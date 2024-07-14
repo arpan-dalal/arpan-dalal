@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a Data Engineer with a passion for Big Data An
 - 🌱 I’m currently learning advanced PySpark techniques.
 - 💬 Ask me about Python, SQL, AWS, and Big Data.
 - 📫 How to reach me:
-   [LinkedIn](https://www.linkedin.com/in/arpan-dalal/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpandas65.a3@gmail.com)](mailto:arpandalal1997@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dalal/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:arpandalal1997@gmail.com)
 
 
 ---
