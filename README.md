@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 - 🔭 I’m currently working at TCS as an AWS Data Engineer.
 - 🌱 I’m currently learning advanced PySpark techniques.
-- 📊 Passionate for Advanced SQL
+- 📊 Passionate for Data.
 - 💬 Ask me about Python, PySpark, SQL, AWS, and Big Data.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dalal/)
