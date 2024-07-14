@@ -1,4 +1,3 @@
-## Arpan Dalal
 # Hi there, I'm Arpan Dalal 👋
 
 Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Analytics and Cloud Technologies.
