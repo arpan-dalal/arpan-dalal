@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ---
 ## Experience
-> Lead Consultant Data Engineer - [**Genpact**](https://www.genpact.com/)
-> Data Engineeer - [**Tata Consultancy Services, India**](https://www.tcs.com)
+> Data Engineer - [**Genpact**](https://www.genpact.com/) (Sep, 2024- Present) \
+> Data Engineer - [**Tata Consultancy Services, India**](https://www.tcs.com) (Aug,2020 - Sep, 2024)
 ---
 
 ### 📈 GitHub Stats
