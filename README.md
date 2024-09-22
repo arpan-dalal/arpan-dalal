@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Analytics and Cloud Technologies.
 
-- ⚙️ I’m currently working at TCS as an AWS Data Engineer.
+- ⚙️ I’m currently working at Genpact as an Lead Consultant Data Engineer.
 - 📊 Passionate for Data.
 - 💬 Ask me about Python, PySpark, SQL, AWS, and Big Data.
 - 🤝 Connect with me:
