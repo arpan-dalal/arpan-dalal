@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Analytics and Cloud Technologies.
 
-- ⚙️ I’m currently working at Genpact as an Lead Consultant Data Engineer.
+- ⚙️ I’m currently working at Genpact as a Lead Consultant Data Engineer.
 - 📊 Passionate for Data.
 - 💬 Ask me about Python, PySpark, SQL, AWS, and Big Data.
 - 🤝 Connect with me:
@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 ---
 ## Experience
+> Lead Consultant Data Engineer - [**Genpact**](https://www.genpact.com/)
 > Data Engineeer - [**Tata Consultancy Services, India**](https://www.tcs.com)
 ---
 
