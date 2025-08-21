@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 - ⚙️ I’m currently working at Genpact as a Lead Consultant Data Engineer.
 - 📊 Passionate for Data.
-- 💬 Ask me about Python, PySpark, SQL, AWS, and Big Data.
+- 💬 Ask me about Python, PySpark, SQL, AWS, Databricks and Big Data.
 - 🤝 Connect with me:
   
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dalal/)
@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 | ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) | ![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen) |
 | ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) | ![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen) |
 | ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-Web-Services) | ![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen) |
+| ![Databricks](https://img.shields.io/badge/Databricks-black?logo=databricks)| ![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen) |
 | ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark) | ![ ](https://img.shields.io/badge/rating-★★★★☆-brightgreen) |
 | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | ![ ](https://img.shields.io/badge/rating-★★★☆☆-brightgreen) |
 | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![ ](https://img.shields.io/badge/rating-★★☆☆☆-brightgreen) |
@@ -29,6 +30,7 @@ Welcome to my GitHub profile! I'm a Data Engineer passionate about Big Data Anal
 
 * Data Engineering
 * AWS
+* Databricks
 * Azure
 * Python
 * PySpark
